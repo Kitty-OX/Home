@@ -4,7 +4,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-image: url("wallpaper.jpg");
+ background-color: #cccccc;
     color: #333;
 }
 
